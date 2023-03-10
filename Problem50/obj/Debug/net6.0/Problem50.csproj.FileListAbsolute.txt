@@ -1,0 +1,15 @@
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #7\Problem50\bin\Debug\net6.0\Problem50.exe
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #7\Problem50\bin\Debug\net6.0\Problem50.deps.json
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #7\Problem50\bin\Debug\net6.0\Problem50.runtimeconfig.json
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #7\Problem50\bin\Debug\net6.0\Problem50.dll
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #7\Problem50\bin\Debug\net6.0\Problem50.pdb
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #7\Problem50\obj\Debug\net6.0\Problem50.csproj.AssemblyReference.cache
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #7\Problem50\obj\Debug\net6.0\Problem50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #7\Problem50\obj\Debug\net6.0\Problem50.AssemblyInfoInputs.cache
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #7\Problem50\obj\Debug\net6.0\Problem50.AssemblyInfo.cs
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #7\Problem50\obj\Debug\net6.0\Problem50.csproj.CoreCompileInputs.cache
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #7\Problem50\obj\Debug\net6.0\Problem50.dll
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #7\Problem50\obj\Debug\net6.0\refint\Problem50.dll
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #7\Problem50\obj\Debug\net6.0\Problem50.pdb
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #7\Problem50\obj\Debug\net6.0\Problem50.genruntimeconfig.cache
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #7\Problem50\obj\Debug\net6.0\ref\Problem50.dll
